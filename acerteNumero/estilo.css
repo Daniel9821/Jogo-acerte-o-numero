@@ -1,0 +1,23 @@
+html{
+    *font-family: sans-serif;
+}
+body{
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+.jogo{
+    margin-top: 20%;
+    background-color: #d0ecea;
+    padding: 10px;
+    box-shadow: 3px 3px 6px black;
+    padding-bottom: 20px;
+}
+
+.lastResultado{
+    color: white;
+    padding: 3px;
+}
+
